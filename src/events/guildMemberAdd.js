@@ -25,7 +25,7 @@ const getWelcomeMessage = (userId) => {
   */
   return {
     content: `Welcome ${userMention(userId)},
-    Hope you have great time here!
+    Hope you brought pizza!
   `,
   };
 };
@@ -42,7 +42,7 @@ const getWelcomeMessageWithMeme = async (userId) => {
 
   return {
     content: `Welcome ${userMention(userId)},
-    Here's a meme for you to enjoy!`,
+    Take a look at this!`,
     embeds: [meme],
   };
 };

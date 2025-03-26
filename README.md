@@ -1,6 +1,6 @@
 ***MemeCat Discord Bot Source Code!***
 
-[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/download.svg" alt="Download MemeCat Now!" height="32" />](https://discord.com/oauth2/authorize?client_id=1354109080398200864)
+[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/download.svg" alt="Download MemeCat Now!" height="32" />](https://discord.com/oauth2/authorize?client_id=1354109080398200864&permissions=2147485696&integration_type=0&scope=bot)
 
 
 **COMMANDS**

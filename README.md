@@ -6,6 +6,10 @@
 **COMMANDS**
 - /meme : Sends a random cat meme.
 - /cat : Sends a random cat photo.
+- /pokecat : Starts your journey as a pokecat trainer!
+- /battle : Battle a random pokecat. 
+- /team : View your current team of pokecats. 
+- /info : View info on the different biomes.  
 - (More to come!)
 
 **Install Instructions**
